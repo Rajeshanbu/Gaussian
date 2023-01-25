@@ -45,7 +45,8 @@ for i in range(n):
 ```
 
 ## Output:
-![output1](guass.png)
+![guassian Rajesh A,22008551](https://user-images.githubusercontent.com/118924713/214554493-a0b78267-9995-4457-bab6-7621441c0b21.png)
+
 
 
 ## Result:
